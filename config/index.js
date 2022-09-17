@@ -36,7 +36,7 @@ export const config = {
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     // 古诗古文
     poetry: false,
 
@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "okres5_kEkzWnqI2Eq8BX6H8iEL0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "EEhhW5MhFao3zQfU_HwJ3l4AQEUbzr-reXntIypZs3M",
+      useTemplateId: "wIXssq8swvEgaDjN0oHtqI-wkhhiRlazWt5O4AzY7b0",
       // 所在省份
       province: "贵州",
       // 所在城市
