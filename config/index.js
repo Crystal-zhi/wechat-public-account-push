@@ -28,9 +28,9 @@ export const config = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: false,
     // 朋友圈文案
@@ -41,7 +41,7 @@ export const config = {
     poetry: false,
 
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "okres5_kEkzWnqI2Eq8BX6H8iEL0",
+      id: "okres55rckvnDKoey6s4CVL-hdh8",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "JGqHLxlKEj79r2p9PVu8_8TVUnMZOnXw9JmHraCSIho",
       // 所在省份
