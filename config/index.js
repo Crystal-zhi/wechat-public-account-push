@@ -77,7 +77,7 @@ export const config = {
       openUrl: "https://github.com/Crystal-zhi",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
-        {"type": "生日", "name": "老婆", "year": "1998", "date": "10-18"},
+        {"type": "*生日", "name": "老公", "year": "1994", "date": "11-16"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
@@ -104,7 +104,7 @@ export const config = {
       openUrl: "https://github.com/Crystal-zhi",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
-        {"type": "*生日", "name": "老公", "year": "1994", "date": "11-16"},
+        {"type": "生日", "name": "老婆", "year": "1998", "date": "10-18"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
